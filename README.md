@@ -16,7 +16,7 @@
         - "Palemoon-Portable.exe"
         - un dossier "Lib"
 - ETAPE 4 :
-     * Copier coller le fichier NPSWF64_32_0_0_371.dll contenu dans le dossier flash player de l'étape 2 dans le dossier _"Lib\Mozilla\Plugins"_.
+     * Copier coller le fichier NPSWF64_32_0_0_371.dll (le plug-in flash) contenu dans le dossier flash player de l'étape 2 dans le dossier _"Lib\Mozilla\Plugins"_.
      * Si vous aviez choisi d'installer Palemoon dans _"C:\Programmes\Palemoon"_, le dossier est donc dans _"C:\Programmes\Palemoon\Lib\Mozilla\Plugins"_.
 
 Lancer Palemoon et c'est parti, vous pourrez jouer à tous les anciens jeux flash de MadWin, Wonderz et ZooValley :)
@@ -39,7 +39,7 @@ Lancer Palemoon et c'est parti, vous pourrez jouer à tous les anciens jeux flas
         - "Palemoon-Portable.exe"
         - a "Lib" folder
 - STEP 4:
-     * Copy paste the NPSWF64_32_0_0_371.dll file contained in the flash player folder from step 2 in the _"Lib\Mozilla\Plugins"_ folder.
+     * Copy paste the NPSWF64_32_0_0_371.dll (the flash player plugin) file contained in the flash player folder from step 2 in the _"Lib\Mozilla\Plugins"_ folder.
      * If you had chosen to install Palemoon in _"C:\Programs\Palemoon"_, the folder is therefore in _"C:\Programs\Palemoon\Lib\Mozilla\Plugins"_.
 
 Launch Palemoon and go, you can play all the old flash games from MadWin, Wonderz and ZooValley :)
