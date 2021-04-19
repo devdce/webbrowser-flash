@@ -18,4 +18,4 @@ Navigateur Palemoon avec Flash Player - Instructions pour l'Installation
         - un dossier "Lib"
 - ETAPE 4 :
      * Copier coller le fichier NPSWF64_32_0_0_371.dll contenu dans le dossier flash player de l'étape 2 dans le dossier "Lib\Mozilla\Plugins".
-     * Si vous aviez choisi d'installer Palemoon dans C:\Programmes\Palemoon, le dossier est donc dans "C:\Programmes\Palemoon\Lib\Mozilla\Plugins"
+     * Si vous aviez choisi d'installer Palemoon dans C:\Programmes\Palemoon, le dossier est donc dans "C:\Programmes\Palemoon\Lib\Mozilla\Plugins".
